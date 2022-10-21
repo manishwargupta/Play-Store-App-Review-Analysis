@@ -98,7 +98,7 @@ There is so much more which can be explored. Like we have current version, andro
 
 Designing multiple visualizations to summarize the information in the dataset and successfully communicate the results and trends to the reader.
 
-# **References**
+# **REFERENCES**
 
 GeeksforGeeks Analytics Vidhya Stackoverflow Towards data science Python libraries documentation Data camp
 
