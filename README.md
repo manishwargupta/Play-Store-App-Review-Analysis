@@ -85,3 +85,18 @@ Most of the apps are Free, so focusing on free app is more important. Focusing m
 They need to focus on updating their apps regularly, so that it will attract more users.
 They need to keep in mind that the sentiments of the user keep varying as they keep using the app, so they should focus more on users needs and features.
 
+# **CONCLUSION**
+Reading the dataset and comprehending the problem statement. Our major challenge was data cleaning.
+
+Handling the error, duplicate and NaN values in the dataset.
+
+13.60% of reviews were NaN values, and even after merging both the dataframes, we could not infer much in order to fill them. Thus we had to drop them. This is just 10% of the cleaned data, we could have given more valuable analysis, if we had atleast 70% - 80% of the data available in the merged dataframes.
+
+User Reviews had 42% of NaN values, which could have been used for developing an understanding of the category wise sentiments, which would help us to fill 13.60% NaN values of the Reviews column.
+
+There is so much more which can be explored. Like we have current version, android version available which can be explored in detail and we can come out with more analysis where we can tell how does these things effect and needs to be kept in mind while developing app for the users.
+
+Designing multiple visualizations to summarize the information in the dataset and successfully communicate the results and trends to the reader.
+
+
+
