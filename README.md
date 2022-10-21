@@ -1,6 +1,6 @@
 # Play-Store-App-Review-Analysis
 
-**#INTRODUCTION**
+#**INTRODUCTION**
 
 In today’s scenario we can see that mobile apps
 playing an important role in any individual’s life. In
