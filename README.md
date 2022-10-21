@@ -33,7 +33,7 @@ analysis the different category such as family,
 communication, entertainment, tools, music,
 camera etc.
 
-**PROBLEM STATEMENTS**
+# **PROBLEM STATEMENTS**
 
 1). Which apps are the highest earners?
 
@@ -51,7 +51,7 @@ camera etc.
 
 8) Does Last Update date has an effects on rating?
 
-**WHAT IS EXPLORATORY DATA ANALYSIS?**
+# **WHAT IS EXPLORATORY DATA ANALYSIS?**
 
 Exploratory data analysis (EDA) is used by data scientists to analyze and investigate data sets for patterns, and anomalies (outliers), and form hypotheses based on our understanding of the dataset and summarize their main characteristics, often employing data visualization methods. It is an important step in any Data Analysis or Data Science project. It helps determine how best to manipulate data sources to get the answers you need.
 
@@ -74,7 +74,7 @@ Data Cleaning - We shall clean the dataset and handle the missing data, outliers
 Testing Hypothesis - We shall check if our data meets the assumptions required by most of the multivariate techniques.
 
 
-**ANALYSIS SUMMARY** 
+# **ANALYSIS SUMMARY** 
 
 In this project of analyzing play store applications, we have worked on several parameters which would help AlmaBetter to do well in launching their apps on the play store.
 
