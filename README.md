@@ -72,3 +72,16 @@ Multivariate Analysis - This is done when more than two variables have to be ana
 Data Cleaning - We shall clean the dataset and handle the missing data, outliers and categorical variables.
 
 Testing Hypothesis - We shall check if our data meets the assumptions required by most of the multivariate techniques.
+
+
+**ANALYSIS SUMMARY** 
+
+In this project of analyzing play store applications, we have worked on several parameters which would help AlmaBetter to do well in launching their apps on the play store.
+
+In the initial phase, we focused more on the problem statements and data cleaning, in order to ensure that we give them the best results out of our analysis.
+
+Developing apps related to the least categories as they are not explored much. Like events and beauty.
+Most of the apps are Free, so focusing on free app is more important. Focusing more on content available for Everyone will increase the chances of getting the highest installs.
+They need to focus on updating their apps regularly, so that it will attract more users.
+They need to keep in mind that the sentiments of the user keep varying as they keep using the app, so they should focus more on users needs and features.
+
