@@ -36,17 +36,10 @@ camera etc.
 #**PROBLEM STATEMENTS**
 
 1). Which apps are the highest earners?
-
 2). Top categories on Google Playstore?
-
 3). Ratio between paid and free apps
-
 4) Distribution of apps based on its size
-
 5) Apps with the highest number of positive reviews
-
 6) Apps with the highest number of negative reviews.
-
 7) Is sentiment_subjectivity proportional to sentiment_polarity?
-
 8) Does Last Update date has an effects on rating?
